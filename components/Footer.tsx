@@ -19,9 +19,9 @@ export function Footer() {
           Plataforma de análise de mercado, auditoria digital e criação de campanhas Google Ads com inteligência artificial para PMEs.
         </p>
         <div className="footerBadgeRow">
-          <span>Análise de mercado</span>
-          <span>SEO & auditoria</span>
-          <span>Google Ads</span>
+          <span><Link href="/privacy">Privacidade</Link></span>
+          <span><Link href="/terms">Termos de Serviço</Link></span>
+          <span><Link href="/contact">Contato</Link></span>
         </div>
       </div>
 
